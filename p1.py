@@ -1,6 +1,6 @@
 #codin:utf-8
 """
-calculat your age after 10 years
+calculate your age after 10 years
 """
 name = input("your name: ")
 age = int(input("your age: "))
